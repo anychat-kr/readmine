@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ReadMine" parent="Theme.AppCompat.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="android:windowSplashScreenBackground">@color/white</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
+<!--        하단에 들어가는 브랜드 이미지-->
+<!--        <item name="android:windowSplashScreenBrandingImage">@drawable/appstore</item>-->
+        <!-- Customize your theme here. -->
+<!--        <item name="windowSplashScreenBackground">@color/white</item>-->
+<!--        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_round</item>-->
+<!--        <item name="windowSplashScreenAnimationDuration">300</item>-->
+<!--        <item name="postSplashScreenTheme">@style/Theme.SplishSplash</item>-->
+<!--네비게이션 색깔-->
+<!--        <item name="android:statusBarColor" tools:targetApi="l">@color/white</item>-->
+<!--        <item name="android:navigationBarColor">@color/white</item>-->
+<!--        <item name="android:windowLightStatusBar">true</item>-->
+    </style>
+</resources>

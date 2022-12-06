@@ -51,4 +51,5 @@ public class MainActivity extends AppCompatActivity {
             web=null; // remove webView, prevent chromium to crash
         }
     }
+
 }

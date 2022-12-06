@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SplashScreen" parent="Theme.AppCompat.NoActionBar">
+
+
+        <item name="android:windowSplashScreenBackground">@color/white</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
+        <!--        하단에 들어가는 브랜드 이미지-->
+    </style>
+</resources>
