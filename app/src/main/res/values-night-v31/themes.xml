@@ -10,7 +10,7 @@
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher</item>
         <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
 <!--        하단에 들어가는 브랜드 이미지-->
-<!--        <item name="android:windowSplashScreenBrandingImage">@drawable/appstore</item>-->
+        <item name="android:windowSplashScreenBrandingImage">@drawable/anychatbi</item>
         <!-- Customize your theme here. -->
 <!--        <item name="windowSplashScreenBackground">@color/white</item>-->
 <!--        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_round</item>-->

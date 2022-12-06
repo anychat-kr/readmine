@@ -7,6 +7,7 @@
         <item name="android:windowSplashScreenBackground">@color/white</item>
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher</item>
         <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/anychatbi</item>
         <!--        하단에 들어가는 브랜드 이미지-->
     </style>
 </resources>
